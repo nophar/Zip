@@ -341,9 +341,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 347E3A881C1DFFB500A11FD3 /* Build configuration list for PBXNativeTarget "Zip" */;
 			buildPhases = (
+				347E3A711C1DFFB500A11FD3 /* Headers */,
 				347E3A6F1C1DFFB500A11FD3 /* Sources */,
 				347E3A701C1DFFB500A11FD3 /* Frameworks */,
-				347E3A711C1DFFB500A11FD3 /* Headers */,
 				347E3A721C1DFFB500A11FD3 /* Resources */,
 			);
 			buildRules = (
